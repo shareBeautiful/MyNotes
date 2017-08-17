@@ -4,8 +4,8 @@
 ## js中作用域和闭包
 ## js中this和原型对象
 
-···
+```
 function f(){
 	console.log("hello world!")
 }
-···
+```
